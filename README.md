@@ -1,2 +1,2 @@
 # awslabs
-AMazon Web Services
+Amazon Web Services
